@@ -95,5 +95,6 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 - Follow topics in order or jump to your interest.
 - The video names starting with "Start of" lead to a certain point in the playlist given above. There are a few more videos following the linked video in the playlist which are relevant to the given topic.
 - Use checkboxes `[ ]` to track progress.
+  - In editor, change \[ \] to \[x\] to check it and vice versa to uncheck
 - Clone or fork this repo and maintain your own journey!
 

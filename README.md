@@ -37,9 +37,12 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
   - 📺 https://youtu.be/W7YTfLaPWRY?si=nARfiCDji8vySFY5
 
 #### ✅ Combinational Circuits
-- [ ] Half Adder / Full Adder
+- [ ] Adder/Subtractor Circuits
+  - 📺 [Start of Adder/Subtractor Circuit Videos](https://youtu.be/5XbRIVWFRIw?si=lHBzsHbmcD6S4tr7)
 - [ ] Multiplexers / Demultiplexers
+  - 📺 [Start of Multiplexer Videos](https://youtu.be/aQlF-9i3fAA?si=1qIjllpkKx56jvZC)
 - [ ] Encoders / Decoders
+  - 📺 https://youtu.be/NWiPVMDh7GE?si=xf6W1MGeE1JxTq16
 
 ---
 
@@ -48,11 +51,14 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 #### ✅ Flip-Flops & Latches
 - [ ] SR, D, JK, T Flip-Flops
 - [ ] Truth tables and timing diagrams
+- 📺 [Start of Sequential Circuits](https://youtu.be/fLN1YOmuAr8?si=cEHt0SAo2grxBJBS)
 - 📺 [Neso Academy – Flip-Flops Series](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjq1jsbT1g1Jcl8g1Ni-NZb)
 
 #### ✅ Counters & Registers
 - [ ] Synchronous and Asynchronous counters
+  - 📺 [Start of Counters](https://youtu.be/AKe2T5BkI1U?si=7-xz6LumVTaatDi7)
 - [ ] Shift registers
+  - 📺 [Start of Shift Registers](https://youtu.be/bAQfPQqKCHs?si=ofAocFwVD6_gWoZL)
 
 #### ✅ Memory Elements
 - [ ] RAM, ROM, PROM, EEPROM basics
@@ -80,48 +86,11 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 
 ---
 
-## 🧪 Hands-On Projects
-
-| Project | Skills Covered |
-|--------|----------------|
-| 4-bit Adder in Logisim | Combinational Logic |
-| Stopwatch using Flip-Flops | Sequential Circuits |
-| Traffic Light Controller | FSM Design |
-| ALU Design in Verilog | HDL Implementation |
-| Simple CPU Design | Advanced Logic + HDL |
-
-👉 See [projects/README.md](./projects/README.md) for full descriptions and guidance.
-
----
-
-## 🧰 Tools You’ll Need
-
-| Tool | Use |
-|------|-----|
-| Logisim | Visual logic circuit simulation |
-| Quartus Prime | FPGA synthesis & simulation |
-| Digital (Java-based) | Easy-to-use logic simulator |
-| VS Code + Verilog extension | HDL writing environment |
-
----
-
-## 📚 Resources
-
-### 📘 Books
-- *Digital Design* by M. Morris Mano – Classic foundational text
-- *Fundamentals of Digital Logic with Verilog Design* by Brown & Vranesic
-- *Digital Systems: Principles and Applications* by Tocci
-
-### 🎥 Video Courses
-- [Neso Academy – Digital Electronics Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
-- [MIT OCW – Digital Systems Lab](https://ocw.mit.edu/courses/6-111-introductory-digital-systems-laboratory-fall-2006/)
-- [Coursera – Digital Systems](https://www.coursera.org/learn/digital-systems)
-
----
 
 ## ✍️ How to Use This Roadmap
 
 - Follow topics in order or jump to your interest.
+- The video names starting with "Start of" lead to a certain point in the playlist given above. There are a few more videos following the linked video in the playlist which are relevant to the given topic.
 - Use checkboxes `[ ]` to track progress.
 - Clone or fork this repo and maintain your own journey!
 

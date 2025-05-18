@@ -60,12 +60,12 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 - [ ] Shift registers
   - 📺 [Start of Shift Registers](https://youtu.be/bAQfPQqKCHs?si=ofAocFwVD6_gWoZL)
 
-#### ✅ Memory Elements
-- [ ] RAM, ROM, PROM, EEPROM basics
 
 #### ✅ Karnaugh Maps (K-Maps)
-- [ ] 2- to 4-variable K-Maps
+- [ ] K-Maps
+  - 📺 [Start of K-Maps](https://youtu.be/lw1STgKUpW0?si=GqeWtc_9E89aZook)
 - [ ] SOP and POS simplification
+  - 📺 https://youtu.be/YmKmS9bpMqM?si=DoafXGHtxG9vrCd_
 
 ---
 

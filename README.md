@@ -84,6 +84,11 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 
 ---
 
+### 🔵 Analog/Digital
+- 📺 [OpAmp](https://youtube.com/playlist?list=PLwjK_iyK4LLDBB1E9MFbxGCEnmMMOAXOH&si=YUYaSFDnrc-Q643P)
+- 📺 [Timer](https://youtu.be/DBTna2ydmC0?si=NRpoViW0jtf_luo2)
+- 📺 [ADC/DAC](https://youtube.com/playlist?list=PLwjK_iyK4LLCnW-df-_53d-6yYrGb9zZc&si=rnaJttZ3t-601D9t)
+  - 📖 [PWM as DAC](https://www.allaboutcircuits.com/technical-articles/turn-your-pwm-into-a-dac/)
 
 ## ✍️ How to Use This Roadmap
 
@@ -92,9 +97,3 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 - Use checkboxes `[ ]` to track progress.
 - Clone or fork this repo and maintain your own journey!
 
-
----
-
-## 📜 License
-
-This roadmap is open-source under the [MIT License](./LICENSE).

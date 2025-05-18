@@ -74,6 +74,9 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 #### ✅ Finite State Machines (FSMs)
 - [ ] Moore & Mealy models
 - [ ] State transition diagrams
+- 📖 https://www.tutorialspoint.com/digital-electronics/digital-electronics-finite-state-machines.htm
+- [Intro to FSM](./resources/Intro to FSM.pdf)
+- [Vending Machine FSM](./resources/Vending Machine FSM.pdf)
 
 #### ✅ Hardware Description Languages
 - [ ] Introduction to Verilog or VHDL

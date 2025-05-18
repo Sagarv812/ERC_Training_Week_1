@@ -1,15 +1,6 @@
 # 🧭 Digital Electronics Learning Roadmap
 
-Welcome! This repository is a curated roadmap to help you learn **Digital Electronics** from the ground up. It includes theory, simulations, and hands-on projects. Ideal for students, hobbyists, or anyone entering hardware design.
-
----
-
-## 🚀 Who Is This For?
-
-- Students in Electrical, Electronics, or Computer Engineering
-- Self-learners building foundations in hardware
-- Developers transitioning from software to embedded/hardware systems
-- Competitive exam prep (GATE, ESE)
+Welcome! This repository is a curated roadmap to help you learn **Digital Electronics** from the ground up. Ideal for students, hobbyists, or anyone entering hardware design.
 
 ---
 
@@ -126,14 +117,6 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 - Use checkboxes `[ ]` to track progress.
 - Clone or fork this repo and maintain your own journey!
 
----
-
-## 🤝 Contributing
-
-Want to improve this roadmap? Open an issue or PR with:
-- New resource suggestions
-- Additional project ideas
-- Corrections or updates
 
 ---
 

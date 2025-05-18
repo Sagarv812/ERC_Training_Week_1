@@ -2,6 +2,8 @@
 
 Welcome! This repository is a curated roadmap to help you learn **Digital Electronics** from the ground up. Ideal for students, hobbyists, or anyone entering hardware design.
 
+[Digital Electronics Playlist for Easy Navigation and Learning](https://youtube.com/playlist?list=PLwjK_iyK4LLBC_so3odA64E2MLgIRKafl&si=QRme7aEatHJV55Ht)
+
 ---
 
 ## 🧠 Learning Phases
@@ -13,21 +15,26 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 #### ✅ Introduction to Digital Electronics
 - What is digital logic? Analog vs. digital
   - 📖 https://www.geeksforgeeks.org/what-is-digital-logic/
-- Digital signals, voltage levels
+  - 📖 https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/
+  - 📺 https://youtu.be/DBTna2ydmC0?si=Wrgf2HemXdYxs1Ne
 
 #### ✅ Number Systems & Arithmetic
 - [ ] Binary, Octal, Decimal, Hexadecimal
 - [ ] Signed numbers, 2's complement
 - [ ] Binary addition/subtraction
+- 📺 [Start of Number System Videos - All About Electronics](https://youtu.be/XrSgsJ-28Do?si=UM8MKPGQkAKfzFb0)
 
 #### ✅ Logic Gates
 - [ ] AND, OR, NOT, NAND, NOR, XOR, XNOR
 - [ ] Truth tables and Boolean expressions
 - 📖 [All About Circuits – Logic Gates](https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-gates/)
+- 📺 [Start of Logic Gate Videos](https://youtu.be/0lwhoQ5aQe8?si=Ngx9FgC3saR0CTNA)
 
 #### ✅ Boolean Algebra & Logic Simplification
 - [ ] Laws of Boolean Algebra
+  - 📺 https://youtu.be/RMe69AdlFdI?si=GovYdBYHgmyMGjUT
 - [ ] DeMorgan’s Theorems
+  - 📺 https://youtu.be/W7YTfLaPWRY?si=nARfiCDji8vySFY5
 
 #### ✅ Combinational Circuits
 - [ ] Half Adder / Full Adder

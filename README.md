@@ -78,6 +78,9 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 - 📖 [Intro to FSM](./resources/Intro_to_FSM.pdf)
 - 📖 [Vending Machine FSM](./resources/Vending_Machine_FSM.pdf)
 
+### ✅ Circuit Switching
+- 📖 https://www.techtarget.com/searchnetworking/definition/circuit-switched#:~:text=Circuit%20switching%20is%20a%20type,the%20duration%20of%20a%20call.
+
 
 ---
 

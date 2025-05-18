@@ -12,6 +12,7 @@ Welcome! This repository is a curated roadmap to help you learn **Digital Electr
 
 #### ✅ Introduction to Digital Electronics
 - What is digital logic? Analog vs. digital
+ - 📖 https://www.geeksforgeeks.org/what-is-digital-logic/
 - Digital signals, voltage levels
 
 #### ✅ Number Systems & Arithmetic
